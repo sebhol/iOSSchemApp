@@ -1,4 +1,0 @@
-iOSSchemApp
-===========
-
-an iOS project
